@@ -1,1 +1,1 @@
-To jest oryginalna linia w info.txt
+To nie jest oryginalna linia w info.txt
